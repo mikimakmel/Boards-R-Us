@@ -1,0 +1,27 @@
+{
+  "name": "boards-r-us",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.6",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dormunsa/boards-R-us.git"
+  },
+  "author": "Miki Makmel & Dor Munsa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dormunsa/boards-R-us/issues"
+  },
+  "homepage": "https://github.com/dormunsa/boards-R-us#readme"
+}
